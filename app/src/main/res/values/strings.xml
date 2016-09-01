@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mi Gestor de Tareas</string>
+    <string name="Escribe_Nombre">Escriba su Nombre:</string>
+    <string name="Btn_Guardar">Guardar</string>
+    <string name="Direcc_mail">Escriba su mail:</string>
+    <string name="email_error">Igrese  un Correo Valido</string>
+    <string name="nombre_error">Igrese su Nombre</string>
+    <string name="Bienvenido_msje">Bienvenido</string>
+</resources>

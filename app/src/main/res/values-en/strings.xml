@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Task Manager</string>
+    <string name="Escribe_Nombre">Your Name</string>
+    <string name="Btn_Guardar">Save</string>
+    <string name="Direcc_mail">Insert your Email</string>
+    <string name="email_error">Must be  a email</string>
+    <string name="nombre_error">Welcome</string>
+</resources>
